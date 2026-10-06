@@ -135,4 +135,4 @@ If you add new disease classes or improve thermal preprocessing:
 * **Frameworks:** TensorFlow/Keras, OpenCV, Scikit-learn.  
 * **Inspired by:** *Deep Learning for Plant Disease Detection* – Mohanty et al., 2016.
 
-> Found a bug or have a question? Open an [issue](../../issues) or ping me on **[@varun-bunny](https://github.com/varun-bunny)**.
+> Found a bug or have a question? Open an [issue](../../issues) or ping me on **[@sreejadumpati20](https://github.com/DumpatiSreeja20/)**.
