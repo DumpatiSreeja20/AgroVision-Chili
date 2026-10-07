@@ -131,7 +131,7 @@ If you add new disease classes or improve thermal preprocessing:
 
 ## 🙏 Acknowledgements
 
-* **Dataset:** Images captured in collaboration with AMRITA VISHWA VIDYAPEETHAM and augmented with open-source chilli-leaf datasets.  
+* **Dataset:** Images captured in collaboration with Keshav Memorial Engineering College and augmented with open-source chilli-leaf datasets.  
 * **Frameworks:** TensorFlow/Keras, OpenCV, Scikit-learn.  
 * **Inspired by:** *Deep Learning for Plant Disease Detection* – Mohanty et al., 2016.
 
